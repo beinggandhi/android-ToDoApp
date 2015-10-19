@@ -11,8 +11,7 @@ Completed user stories:
  * [ ] Optional: WIP... 
  
 Notes:
-
-#Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+Intent : was the key ! 
 
 Walkthrough of all user stories:
 
